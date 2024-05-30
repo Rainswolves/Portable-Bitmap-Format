@@ -1,8 +1,14 @@
 # Portable Bitmap Format
 
-![](./portable_map.pbm)
+![800% zoomed output](./portable_map.png)
 
-This was an exercise in rendering something directly to an image.
+The idea is to render something directly to an image as simply as possible.
+
+# Quick Start
+
+```console
+$ rustc pbm.rs && ./pbm
+```
 
 References:
 
